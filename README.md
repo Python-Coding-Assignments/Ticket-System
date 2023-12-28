@@ -6,7 +6,7 @@
 <li><a href='#getting-started'>Getting Started</li>
 <li><a href='#Contact'>Contact</ol>
 </details>
-
+  
 ## About the Project
 The project is a simple C++ program that calculates the amount of money that a customer owes for purchasing tickets to a football game.  There are three different types of tickets that a customer can purchase: adult, child, or senior tickets.
 
